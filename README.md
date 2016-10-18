@@ -50,3 +50,4 @@ Examples of non-semantic elements: `<div>` and `<span>` - Tells nothing about it
 Examples of semantic elements: `<form>`, `<table>`, and `<article>` - Clearly defines the content.
 
 Page Titles and Headings: http://meetcontent.com/blog/introducing-content-page-titles-headings/
+# html_mastery
